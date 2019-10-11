@@ -16,6 +16,6 @@ Read our Contribution Guidelines below before you contribute:-
 
 ### Bit twiddling
 - [x] count set bits
-- [ ] largest power of two closest to given number
-- [ ] smallest power of two closest to given number
-- [ ] unique number from array of duplicates
+- [x] largest power of two closest to given number
+- [x] smallest power of two closest to given number
+- [x] unique number from array of duplicates
