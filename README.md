@@ -11,3 +11,11 @@ Read our Contribution Guidelines below before you contribute:-
 * Create a pull request
 * Wait for Pull Request to merge.
 * Comment on the issue by referring your pr.
+
+## Algorithm List
+
+### Bit twiddling
+- [x] count set bits
+- [ ] largest power of two closest to given number
+- [ ] smallest power of two closest to given number
+- [ ] unique number from array of duplicates
